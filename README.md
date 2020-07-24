@@ -6,5 +6,5 @@
 🤘🏼 &nbsp;	Hello! I'm a Front End Developer at [FIAP](https://www.fiap.com.br/) and Game Developer at [Keyd Studio](https://www.instagram.com/keydstudio/)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davibaptista)](https://www.linkedin.com/in/davibaptista/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davibaptista/)](https://www.linkedin.com/in/davibaptista/)
 
