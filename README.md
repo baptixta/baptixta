@@ -7,9 +7,8 @@
 
 <br/> :blush: &nbsp; I can help you with CSS Grid Layout, Flexbox and Sound Design development for Games
 <br/> 💬  &nbsp; About me: I love technology, specially games.
-| 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
-
+<br>
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daviarcosbaptista@gmail.com)](mailto:tgmarinho@gmail.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-baptista)](https://www.linkedin.com/in/davi-baptista)
 
