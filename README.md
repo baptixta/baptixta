@@ -3,7 +3,7 @@
    <br><br>
 </p>
 
-🤘🏼 &nbsp;	Hello! I'm a Front End Developer at [FIAP](https://www.fiap.com.br/) and Game Developer at [Keyd Studio](https://www.instagram.com/keydstudio/)<br>
+🤘🏼 &nbsp;	Hello! I'm a Front End Developer at [FIAP](https://www.fiap.com.br/) and Game Developer at [Keyd Studio].(https://www.instagram.com/keydstudio/)<br><br>
 :rocket: &nbsp; I can help you with CSS Grid Layout, Flexbox and Sound Design development for Games<br>
 💬 &nbsp; About me: I love technology, specially games.
 
