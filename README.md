@@ -4,6 +4,7 @@
 </p>
 
 🤘🏼 &nbsp;	Hello! I'm a Front End Developer at [FIAP](https://www.fiap.com.br/) and Game Developer at [Keyd Studio](https://www.instagram.com/keydstudio/).<br><br>
+:books: Currently studying ReactJS.
 :rocket: &nbsp; I can help you with CSS Grid Layout, Flexbox and Sound Design development for Games<br>
 :fire: &nbsp; About me: [www.baptixta.com.br](https://www.baptixta.com/)
 
