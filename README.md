@@ -6,12 +6,13 @@
 🤘🏼 &nbsp;	Hello! I'm a Front End Developer at [FIAP](https://www.fiap.com.br/) and Game Developer at [Keyd Studio](https://www.instagram.com/keydstudio/).<br><br>
 :books: Currently studying ReactJS.<br>
 :rocket: &nbsp; I can help you with CSS Grid Layout, Flexbox, Git, Javascript, and Sound Design development for Games<br>
-📫 &nbsp; How to reach me **daviarcosbaptista@gmail.com**
+📫 &nbsp; How to reach me **daviarcosbaptista@gmail.com**<br>
 :fire: &nbsp; About me: [www.baptixta.com.br](https://www.baptixta.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baptixta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
    <a href="https://linkedin.com/in/davi-baptista" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Davi Baptista" height="20" width="20" /></a>
+   <a href="https://codepen.io/baptixta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="baptixta" height="20" width="20" /></a>
 </p>
 
