@@ -8,5 +8,7 @@
 :rocket: &nbsp; I can help you with CSS Grid Layout, Flexbox, Git, Javascript, and Sound Design development for Games<br>
 :fire: &nbsp; About me: [www.baptixta.com.br](https://www.baptixta.com/)
 
+<img src="https://github-readme-stats.vercel.app/api?username=baptixta&show_icons=true" alt="baptixta"/> 
+
 [![Gmail Badge](https://img.shields.io/badge/daviarcosbaptista@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daviarcosbaptista@gmail.com)](mailto:tgmarinho@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-baptista)](https://www.linkedin.com/in/davi-baptista)
 
