@@ -1,5 +1,5 @@
 <p align="left">
-   <img <img src="https://i.ibb.co/P1CGS0x/baptixta-logo-1.png" alt="baptixta-logo-1" border="0" width="300">
+   <img src="https://i.ibb.co/P1CGS0x/baptixta-logo-1.png" alt="baptixta-logo-1" border="0" width="300">
    <br><br>
 </p>
 
