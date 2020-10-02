@@ -12,8 +12,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baptixta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-  <summary>More Stats</summary>
-  ![Davi's github stats](https://github-readme-stats.vercel.app/api?username=baptixta&show_icons=true&theme=react)
+  <summary>My Github Stats</summary>
+  <br>
+
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=baptixta&show_icons=true&theme=react" alt="Davi Baptista's Github Stats" alt="Davi Baptista's Github Status" />
+  </p>
 </details>
 
 <p align="center">
