@@ -13,7 +13,6 @@
 
 <details>
   <summary>More Stats</summary>
-   <br>
   ![Davi's github stats](https://github-readme-stats.vercel.app/api?username=baptixta&show_icons=true&theme=react)
 </details>
 
