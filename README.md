@@ -16,7 +16,7 @@
   <br>
 
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=baptixta&show_icons=true&theme=react" alt="Davi Baptista's Github Stats" alt="Davi Baptista's Github Status" />
+    <img src="https://github-readme-stats.vercel.app/api?username=baptixta&show_icons=true&theme=react" alt="Davi Baptista's Github Stats" alt="Davi Baptista's Github Status" />
   </p>
 </details>
 
