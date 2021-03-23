@@ -3,7 +3,7 @@
    <br><br>
 </p>
 
-🤘🏼 &nbsp;	Hello! I'm a Front End Developer at [FIAP](https://www.fiap.com.br/) and Game Developer at [Keyd Studio](https://www.instagram.com/keydstudio/).<br><br>
+🤘🏼 &nbsp;	Hello! I'm a Front End Developer at [FIAP](https://www.fiap.com.br/) and Sound Designer.<br><br>
 :books: &nbsp; Currently studying ReactJS and Python.<br>
 :rocket: &nbsp; I can help you with CSS, Git, Javascript, and Sound Design development for Games<br>
 📫 &nbsp; How to reach me **daviarcosbaptista@gmail.com**<br>
