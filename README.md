@@ -1,8 +1,3 @@
-<p align="left">
-   <img src="https://i.ibb.co/P1CGS0x/baptixta-logo-1.png" alt="baptixta-logo-1" border="0" width="300">
-   <br><br>
-</p>
-
 🤘🏼 &nbsp;	Hello! I'm a Game Designer at [Flux Games](https://www.flux.games/) and Sound Designer.<br><br>
 :books: &nbsp; Currently studying ReactJS and Python.<br>
 :rocket: &nbsp; I can help you with Game Design, and Sound Design development for Games<br>
