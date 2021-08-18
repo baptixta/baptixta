@@ -4,16 +4,6 @@
 📫 &nbsp; How to reach me **daviarcosbaptista@gmail.com**<br>
 :fire: &nbsp; About me: [www.baptixta.com.br](https://www.baptixta.com/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baptixta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<details>
-  <summary>My Github Stats</summary>
-  <br>
-
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=baptixta&show_icons=true&theme=react" alt="Davi Baptista's Github Stats" alt="Davi Baptista's Github Status" />
-  </p>
-</details>
 
 <p align="center">
    <a href="https://linkedin.com/in/davi-baptista" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Davi Baptista" height="30" width="30" /></a>
