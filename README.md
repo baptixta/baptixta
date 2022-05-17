@@ -2,7 +2,7 @@
 :books: &nbsp; Currently studying Game Design and Sound Design (VGM and FMOD).<br>
 :rocket: &nbsp; I can help you with Game Design, and Sound Design development for Games<br>
 📫 &nbsp; How to reach me **daviarcosbaptista@gmail.com**<br>
-:fire: &nbsp; About me: [www.baptixta.com.br](https://www.baptixta.com/)
+:fire: &nbsp; About me: [www.baptixta.com](https://www.baptixta.com/)
 
 
 <p align="center">
