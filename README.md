@@ -1,4 +1,4 @@
-🤘🏼 &nbsp;	Hello! I'm a Game Designer and Co-founder | Game/Sound Designer at [Nano Knight Studios](https://nanoknightstudio.itch.io/).<br><br>
+🤘🏼 &nbsp;	Hello! I'm a Game Designer and Co-founder | Game/Sound Designer at [Nano Knight Studio](https://nanoknightstudio.itch.io/).<br><br>
 :books: &nbsp; Currently studying Game Design and Sound Design (VGM and FMOD).<br>
 :rocket: &nbsp; I can help you with Game Design, and Sound Design development for Games<br>
 📫 &nbsp; How to reach me **daviarcosbaptista@gmail.com**<br>
