@@ -1,4 +1,4 @@
-🤘&nbsp;	Hello! I'm a Game Designer and Co-founder | Game/Sound Designer at [Nano Knight Studio](https://nanoknightstudio.itch.io/).<br>
+🤘&nbsp;	Hello! I'm a Game Designer at [Dumativa](https://www.dumativa.com.br) and Co-founder | Game Designer at [Nano Knight Studio](https://nanoknightstudio.itch.io/).<br>
 👋 I'm also the Content Advocate at [Mage](https://twitter.com/magegamedevBR)<br><br>
 :books: &nbsp; Currently studying Game Design and Sound Design (VGM and FMOD).<br>
 :rocket: &nbsp; I can help you with Game Design, and Sound Design development for Games<br>
